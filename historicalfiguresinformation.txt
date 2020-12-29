@@ -1,0 +1,329 @@
+Alexander the Great-----	Leader--	Greece--	32	BC	Male	Disease-	White	
+Leonidas----------------	Leader--	Greece--	60	BC	Male	War-----	White	
+Pericles----------------	Leader--	Greece--	34	BC	Male	Disease-	White	
+Solon-------------------	Leader--	Greece--	70	BC	Male	Disease-	White	
+Socrates----------------	Scientist	Greece--	71	BC	Male	Executio	White	
+Plato-------------------	Scientist	Greece--	81	BC	Male	Disease-	White	
+Hippocrates-------------	Scientist	Greece--	90	BC	Male	Disease-	White	
+Aristotle---------------	Scientist	Greece--	61	BC	Male	Disease-	White	
+Archimedes--------------	Scientist	Greece--	76	BC	Male	Assasina	White	
+Pythagoras--------------	Scientist	Greece--	75	BC	Male	Assasina	White	
+Sophocles---------------	Writer--	Greece--	90	BC	Male	Disease-	White	
+Aeschylus---------------	Writer--	Greece--	67	BC	Male	Accident	White	
+Euripides---------------	Writer--	Greece--	74	BC	Male	Disease-	White	
+Gaius Marius------------	Leader--	Italy---	70	BC	Male	Disease-	White	
+Marcus Cicero-----------	Leader--	Italy---	63	BC	Male	Assasina	White	
+Julius Caesar-----------	Leader--	Italy---	55	BC	Male	Assasina	White	
+Mark Antony-------------	Leader--	Italy---	53	BC	Male	Suicide-	White	
+Augustus----------------	Leader--	Italy---	75	BC	Male	Disease-	White	
+Claudius----------------	Leader--	Italy---	63	BC	Male	Assasina	White	
+Pompey------------------	Leader--	Italy---	57	BC	Male	Assasina	White	
+Brutus------------------	Leader--	Italy---	43	BC	Male	Suicide-	White	
+Spartacus---------------	Soldier-	Italy---	39	BC	Male	War-----	White	
+Nero--------------------	Leader--	Italy---	30	1	Male	Suicide-	White	
+Trajan------------------	Leader--	Italy---	63	1	Male	Disease-	White	
+Caligula----------------	Leader--	Italy---	28	1	Male	Assasina	White	
+Commodus----------------	Leader--	Italy---	31	2	Male	Assasina	White	
+Constantine-------------	Leader--	Italy---	65	3	Male	Disease-	White	
+Leonardo Da Vinci-------	Painter-	Italy---	67	15	Male	Disease-	White	
+Michelangelo------------	Painter-	Italy---	88	15	Male	Disease-	White	
+Raphael-----------------	Painter-	Italy---	37	15	Male	Disease-	White	
+Titian------------------	Painter-	Italy---	86	15	Male	Disease-	White	
+Donatello---------------	Painter-	Italy---	80	15	Male	Disease-	White	
+Niccolo Machiavelli-----	Writer--	Italy---	58	15	Male	Disease-	White	
+Thomas More-------------	Writer--	Ireland-	57	15	Male	Execution	White	
+Christopher Columbus----	Explorer	Italy---	55	15	Male	Disease-	White	
+Nicholaus Copernicus----	Scientist	Poland--	70	15	Male	Disease-	White	
+Paracelsus--------------	Scientist	Swiss---	48	15	Male	Unknown-	White	
+Martin Luther-----------	Scientist	Germany-	62	15	Male	Disease-	White	
+Erasmus-----------------	Scientist	Dutch---	69	15	Male	Disease-	White	
+Oliver Cromwell---------	Leader--	England-	59	16	Male	Disease-	White	
+Gustav II Adolf---------	Leader--	Scandinavia	37	16	Male	Assasination	White	
+Tokugawa Ieyasu---------	Leader--	Japan---	73	16	Male	Disease-	White	
+Tsar Michael I of Russia	Leader--	Russia--	49	16	Male	Disease-	White	
+Shah Jahan--------------	Leader--	Indian--	74	16	Male	Disease-	White	
+William Shakespeare-----	Writer--	England-	52	16	Male	Unknown-	White	
+Francis Bacon-----------	Writer--	England-	65	16	Male	Disease-	White	
+Bernini-----------------	Painter-	Italy---	81	16	Male	Disease-	White	
+Rene Descartes----------	Scientist	France--	53	16	Male	Disease-	White	
+Johannes Kepler---------	Scientist	Germany-	58	16	Male	Disease-	White	
+Thomas Hobbes-----------	Scientist	England-	91	16	Male	Disease-	White	
+Louis XIV---------------	Leader--	France--	76	17	Male	Disease-	White	
+Charles I---------------	Leader--	England-	48	17	Male	Execution	White	
+Anne of Austria---------	Leader--	France--	64	17	Female	Disease-	White	
+William III-------------	Leader--	Dutch---	51	17	Male	Disease-	White	
+William Penn------------	Leader--	England-	73	17	Male	Disease-	White	
+Peter the Great---------	Leader--	Russia--	52	17	Male	Disease-	White	
+Jan Vermeer-------------	Painter-	Dutch---	43	17	Male	Unknown-	White	
+Rembrandt---------------	Painter-	Dutch---	63	17	Male	Disease-	White	
+John Locke--------------	Writer--	England-	72	17	Male	Disease-	White	
+Baruch Spinoza----------	Scientist	Dutch---	44	17	Male	Disease-	White	
+Gottfried Wilhelm von Leibniz	Scientist	Germany-	70	17	Male	Disease-	White	
+Pierre de Fermat--------	Scientist	France--	58	17	Male	Unknown-	White	
+Antonie van Leeuwenhoek-	Scientist	Dutch---	90	17	Female	Disease-	White	
+Sir Isaac Newton--------	Scientist	England-	84	17	Male	Disease-	White	
+Thomas Newcomen---------	Scientist	England-	65	17	Male	Unknown-	White	
+Robert Boyle------------	Scientist	England-	64	17	Male	Disease-	White	
+Robert Hooke------------	Scientist	England-	67	17	Male	Disease-	White	
+Voltaire----------------	Scientist	France--	83	17	Male	Disease-	White	
+Catherine the Great-----	Leader--	Russia--	67	18	Female	Disease-	White	
+George Washington-------	Leader--	USA-----	67	18	Male	Disease-	White	
+Napoleon Bonaparte------	Leader--	France--	51	18	Male	Disease-	White	
+James Madison-----------	Leader--	USA-----	85	18	Male	Disease-	White	
+John Adams--------------	Leader--	USA-----	90	18	Male	Disease-	White	
+Toussaint Louverture----	Leader--	France--	59	18	Male	Disease-	White	
+King George III---------	Leader--	England-	76	18	Male	Disease-	White	
+Maria Theresa-----------	Leader--	Austria-	63	18	Female	Disease-	White	
+Simon Bolivar-----------	Leader--	Venezuela	47	18	Male	Disease-	White	
+Thomas Jefferson--------	Leader--	USA-----	83	18	Male	Unknown-	White	
+Louis XVI---------------	Leader--	France--	38	18	Male	Execution	White	
+Marie Antoinette--------	Leader--	France--	37	18	Female	Execution	White	
+Marquis de Lafayette----	Leader--	France--	76	18	Male	Disease-	White	
+Maximilien Robespierre--	Leader--	France--	36	18	Male	Execution	White	
+Andrew Jackson----------	Leader--	USA-----	78	18	Male	Disease-	White	
+James Watt--------------	Scientist	Scotland	83	18	Male	Disease-	White	
+Antoine-Laurent de Lavoisier	Scientist	France--	50	18	Female	Execution	White	
+Alexander von Humboldt--	Scientist	Germany-	89	18	Male	Disease-	White	
+Benjamine Franklin------	Scientist	USA-----	84	18	Male	Disease-	White	
+Jean-Jacques Roussueau--	Scientist	France--	66	18	Male	Disease-	White	
+Michael Faraday---------	Scientist	England-	75	18	Male	Disease-	White	
+Edward Jenner-----------	Scientist	England-	73	18	Male	Disease-	White	
+George Stephenson-------	Scientist	England-	67	18	Male	Disease-	White	
+Adam Smith--------------	Scientist	Scotland	67	18	Male	Disease-	White	
+Immanuel Kant-----------	Scientist	Germany-	79	18	Male	Disease-	White	
+Thomas Paine------------	Writer--	USA-----	72	18	Male	Disease-	White	
+Jonathan Swift----------	Writer--	Ireland-	77	18	Male	Disease-	White	
+Johann Wolfgang von Goethe	Writer--	Germany-	82	18	Male	Disease-	White	
+William Blake-----------	Writer--	England-	69	18	Male	Disease-	White	
+Robert Burns------------	Writer--	Scotland	37	18	Male	Disease-	White	
+Mary Wollstonecraft-----	Writer--	England-	38	18	Female	Disease-	White	
+Jane Austen-------------	Writer--	England-	41	18	Female	Disease-	White	
+Bach--------------------	Musician	Germany-	65	18	Male	Disease-	White	
+George Frederick Handel-	Musician	Germany-	74	18	Male	Unknown-	White	
+Joseph Haydn------------	Musician	Austria-	77	18	Male	Disease-	White	
+Mozart------------------	Musician	Austria-	35	18	Male	Unknown-	White	
+Beethoven---------------	Musician	Germany-	56	18	Male	Disease-	White	
+Abraham Lincoln---------	Leader--	USA-----	56	19	Male	Assasination	White	
+Queen Victoria----------	Leader--	England-	81	19	Female	Disease-	White	
+Ulysses S Grant---------	Leader--	USA-----	63	19	Male	Disease-	White	
+Giuseppe Mazzini--------	Leader--	Italy---	66	19	Male	Disease-	White	
+Benjamin Disraeli-------	Leader--	England-	76	19	Male	Disease-	White	
+Kaiser Wilhelm II-------	Leader--	Germany-	82	19	Male	Disease-	White	
+Franklin D Roosevelt----	Leader--	USA-----	63	19	Male	Disease-	White	
+Winston Churchill-------	Leader--	England-	90	19	Male	Disease-	White	
+Theodore Roosevelt------	Leader--	USA-----	60	19	Male	Disease-	White	
+Adolf Hitler------------	Leader--	Austria-	56	19	Male	Suicide-	White	
+Lenin-------------------	Leader--	Russia--	53	19	Male	Disease-	White	
+Dwight D Eisenhower-----	Leader--	USA-----	78	19	Male	Disease-	White	
+Woodrow Wilson----------	Leader--	USA-----	67	19	Male	Disease-	White	
+Charles de Gaulle-------	Leader--	France--	79	19	Male	Disease-	White	
+Jawaharlal Nehru--------	Leader--	India---	74	19	Male	Disease-	Asian	
+Jefferson Davis---------	Leader--	USA-----	81	19	Male	Disease-	White	
+Mao Zedong--------------	Leader--	China---	82	19	Male	Disease-	Asian	
+Sir Charlie Chaplin-----	Actor---	England-	88	19	Male	Disease-	White	
+Alfred Hitchcock--------	Actor---	England-	80	19	Male	Disease-	White	
+Buffalo Bill------------	Actor---	USA-----	70	19	Male	Disease-	White	
+Charles Dickens---------	Writer--	England-	58	19	Male	Disease-	White	
+Karl Marx---------------	Writer--	Germany-	64	19	Male	Disease-	White	
+Victor Hugo-------------	Writer--	France--	83	19	Male	Disease-	White	
+Beatrix Potter----------	Writer--	England-	77	19	Female	Disease-	White	
+Ralph Waldo Emerson-----	Writer--	USA-----	78	19	Male	Disease-	White	
+Wilfred Owen------------	Writer--	England-	25	19	Male	War-----	White	
+Harriet Beecher Stowe---	Writer--	USA-----	85	19	Female	Disease-	White	
+Henry David Thoreau-----	Writer--	USA-----	44	19	Male	Disease-	White	
+Walt Whitman------------	Writer--	USA-----	72	19	Male	Disease-	White	
+Emily Dickinson---------	Writer--	USA-----	55	19	Female	Disease-	White	
+Lord Alfred Tennyson----	Writer--	England-	83	19	Male	Disease-	White	
+Oscar Wilde-------------	Writer--	Ireland-	46	19	Male	Disease-	White	
+Leo Tolstoy-------------	Writer--	Russia--	82	19	Male	Disease-	White	
+Fyodor Dostoevksy-------	Writer--	Russia--	59	19	Male	Disease-	White	
+Mark Twain--------------	Writer--	USA-----	74	19	Male	Disease-	White	
+JRR Tolkien-------------	Writer--	England-	81	19	Male	Disease-	White	
+F Scott Fitzgerald------	Writer--	USA-----	44	19	Male	Disease-	White	
+Ernest Hemingway--------	Writer--	USA-----	61	19	Male	Suicide-	White	
+Virginia Woolf----------	Writer--	England-	59	19	Female	Suicide-	White	
+CS Lewis----------------	Writer--	England-	64	19	Male	Disease-	White	
+Robert Frost------------	Writer--	USA-----	88	19	Male	Disease-	White	
+David Livingstone-------	Explorer	Scotland	60	19	Male	Disease-	White	
+Florence Nightingale----	Humanitarian	England-	90	19	Female	Disease-	White	
+Susan B Anthony---------	Humanitarian	USA-----	86	19	Female	Disease-	White	
+Harret Tubman-----------	Humanitarian	USA-----	90	19	Female	Disease-	White	
+Emily Pankhurst---------	Humanitarian	England-	69	19	Male	Disease-	White	
+Mahatma Gandhi----------	Humanitarian	India---	78	19	Male	Assasination	Asian	
+Raja Ram Mohan Roy------	Humanitarian	India---	61	19	Male	Disease-	Asian	
+Swami Vivekananda-------	Humanitarian	India---	39	19	Male	Disease-	Asian	
+Elenor Roosevelt--------	Humanitarian	USA-----	78	19	Female	Disease-	White	
+Giuseppe Verdi----------	Musician	Italy---	87	19	Male	Disease-	White	
+Claude Monet------------	Painter-	France--	86	19	Male	Disease-	White	
+Vincent Van Gogh--------	Painter-	Dutch---	37	19	Male	Suicide-	White	
+Pablo Picasso-----------	Painter-	Spain---	91	19	Male	Disease-	White	
+Edvard Munch------------	Painter-	Scandinavia	80	19	Male	Disease-	White	
+Charles Babbage---------	Scientist	England-	79	19	Male	Disease-	White	
+Charles Darwin----------	Scientist	England-	73	19	Male	Disease-	White	
+Alexander Graham Bell---	Scientist	Scotland	75	19	Male	Disease-	White	
+Edwin Hubble------------	Scientist	USA-----	63	19	Male	Disease-	White	
+Louis Pasteur-----------	Scientist	France--	72	19	Male	Disease-	White	
+James Clerk Maxwell-----	Scientist	Scotland	48	19	Male	Disease-	White	
+Alfred Wegener----------	Scientist	Germany-	50	19	Male	Disease-	White	
+Thomas Edison-----------	Scientist	USA-----	84	19	Male	Disease-	White	
+Albert Einstein---------	Scientist	Germany-	76	19	Male	Disease-	White	
+Nikola Tesla------------	Scientist	USA-----	86	19	Male	Disease-	White	
+Marie Curie-------------	Scientist	Poland--	66	19	Female	Disease-	White	
+Alexander Fleming-------	Scientist	Scotland	73	19	Male	Disease-	White	
+John Logie Baird--------	Scientist	Scotland	57	19	Male	Disease-	White	
+Niels Bohr--------------	Scientist	Scandinavia	77	19	Male	Disease-	White	
+Erwin Schrödinger-------	Scientist	Austria-	73	19	Male	Disease-	White	
+Friedrich Nietzsche-----	Scientist	Germany-	55	19	Male	Disease-	White	
+John D Rockefeller------	Businessman	USA-----	97	19	Male	Disease-	White	
+Andrew Carnegie---------	Businessman	Scotland	83	19	Male	Disease-	White	
+Henry Ford--------------	Businessman	USA-----	83	19	Male	Disease-	White	
+General S Patton--------	Soldier-	USA-----	60	19	Male	Disease-	White	
+T.E. Lawrence-----------	Soldier-	England-	46	19	Male	Accident	White	
+Robert E Lee------------	Soldier-	USA-----	63	19	Male	Disease-	White	
+Douglas Haig------------	Soldier-	Scotland	66	19	Male	Disease-	White	
+Bernard Montgomery------	Soldier-	England-	88	19	Male	Disease-	White	
+Babe Ruth---------------	Athlete-	USA-----	53	19	Male	Disease-	White	
+Martin Luther King Jr---	Humanitarian	USA-----	39	20	Male	Assasination	Black	
+Nelson Mandela----------	Humanitarian	SouthAfrica	95	20	Male	Disease-	Black	
+Desmond Tutu------------	Humanitarian	SouthAfrica	88	20	Male	Disease-	Black	
+Dalai Lama--------------	Humanitarian	Tibet---	84	20	Male	Alive---	White	
+Malcolm X---------------	Humanitarian	USA-----	39	20	Male	Assasination	White	
+Rosa Parks--------------	Humanitarian	USA-----	92	20	Female	Disease-	Black	
+Princess Diana----------	Humanitarian	England-	36	20	Female	Accident	White	
+Raisa Gorbachev---------	Humanitarian	Russia--	67	20	Female	Disease-	White	
+Abbe Pierre-------------	Humanitarian	France--	94	20	Male	Disease-	White	
+Mother Teresa-----------	Humanitarian	India---	87	20	Female	Disease-	White	
+John Paul II------------	Leader--	Poland--	84	20	Male	Disease-	White	
+Mikhail Gorbachev-------	Leader--	Russia--	88	20	Male	Alive---	White	
+Ronald Reagan-----------	Leader--	USA-----	93	20	Male	Disease-	White	
+Angela Merkel-----------	Leader--	Germany-	65	20	Female	Alive---	White	
+Margaret Thatcher-------	Leader--	England-	87	20	Female	Disease-	White	
+John F Kennedy----------	Leader--	USA-----	46	20	Male	Assasination	White	
+Benazir Bhutto----------	Leader--	Pakistan	54	20	Female	Assasination	Asian	
+Boris Yeltsin-----------	Leader--	Russia--	76	20	Male	Disease-	White	
+Kofi Annan--------------	Leader--	MidAfrica	80	20	Male	Disease-	Black	
+Lyndon B Johnson--------	Leader--	USA-----	64	20	Male	Disease-	White	
+Tony Blair--------------	Leader--	England-	66	20	Male	Alive---	White	
+Bill Clinton------------	Leader--	USA-----	73	20	Male	Alive---	White	
+Hillary Clinton---------	Leader--	USA-----	72	20	Female	Alive---	White	
+Donald Trump------------	Leader--	USA-----	73	20	Male	Alive---	White	
+Barack Obama------------	Leader--	USA-----	58	20	Male	Alive---	Black	
+Kim Jung Un-------------	Leader--	Korea---	35	20	Male	Alive---	Asian	
+George W Bush-----------	Leader--	USA-----	73	20	Male	Alive---	White	
+George H W Bush---------	Leader--	USA-----	94	20	Male	Disease-	White	
+Elizabeth II------------	Leader--	England-	93	20	Female	Alive---	White	
+Jimmy Carter------------	Leader--	USA-----	95	20	Male	Alive---	White	
+Vladimir Putin----------	Leader--	Russia--	67	20	Male	Alive---	White	
+David Cameron-----------	Leader--	England-	53	20	Male	Alive---	White	
+Xi Jinping--------------	Leader--	China---	66	20	Male	Alive---	Asian	
+Enrico Fermi------------	Scientist	Italy---	53	20	Male	Disease-	White	
+Stephen Hawking---------	Scientist	England-	76	20	Male	Disease-	White	
+Rosalind Franklin-------	Scientist	England-	37	20	Female	Disease-	White	
+Stephen Jay Gould-------	Scientist	USA-----	60	20	Male	Disease-	White	
+Tim Berners-Lee---------	Scientist	England-	64	20	Male	Alive---	White	
+Werner Heisenberg-------	Scientist	Germany-	74	20	Male	Disease-	White	
+Salvador Dali-----------	Painter-	Spain---	84	20	Male	Disease-	White	
+David Hockney-----------	Painter-	England-	82	20	Male	Alive---	White	
+Andy Warhol-------------	Painter-	USA-----	58	20	Male	Disease-	White	
+George Orwell-----------	Writer--	England-	46	20	Male	Disease-	White	
+John Steinbeck----------	Writer--	USA-----	66	20	Male	Disease-	White	
+Anne Frank--------------	Writer--	Germany-	15	20	Female	Disease-	Jewish	
+JK Rowling--------------	Writer--	England-	54	20	Female	Alive---	White	
+Germaine Greer----------	Writer--	Australia	80	20	Male	Alive---	White	
+John Lennon-------------	Musician	England-	40	20	Male	Assasination	White	
+Elvis Presley-----------	Musician	USA-----	42	20	Male	Disease-	White	
+Frank Sinatra-----------	Musician	USA-----	82	20	Male	Disease-	White	
+Michael Jackson---------	Musician	USA-----	50	20	Male	Assasination	Black	
+Madonna-----------------	Musician	USA-----	61	20	Male	Alive---	White	
+Freddie Mercury---------	Musician	England-	45	20	Male	Disease-	White	
+Elton John--------------	Musician	England-	72	20	Male	Alive---	White	
+Bob Geldof--------------	Musician	Ireland-	68	20	Male	Alive---	White	
+Cliff Richard-----------	Musician	England-	79	20	Male	Alive---	White	
+Paul McCartney----------	Musician	England-	77	20	Male	Alive---	White	
+Billie Holiday----------	Musician	USA-----	44	20	Male	Disease-	Black	
+Louis Armstrong---------	Musician	USA-----	69	20	Male	Disease-	Black	
+Bob Marley--------------	Musician	Carribean	36	20	Male	Disease-	Black	
+Ariana Grande-----------	Musician	USA-----	26	20	Female	Alive---	White	
+Ed Sheeran--------------	Musician	England-	28	20	Male	Alive---	White	
+Rihanna-----------------	Musician	Carribean	31	20	Female	Alive---	Black	
+Beyonce-----------------	Musician	USA-----	38	20	Female	Alive---	Black	
+Lady Gaga---------------	Musician	USA-----	33	20	Female	Alive---	White	
+Shawn Mendes------------	Musician	Canada--	21	20	Male	Alive---	White	
+Taylor Swift------------	Musician	USA-----	29	20	Female	Alive---	White	
+Selena Gomez------------	Musician	USA-----	27	20	Female	Alive---	White	
+Katy Perry--------------	Musician	USA-----	35	20	Female	Alive---	White	
+Justin Beiber-----------	Musician	Canada--	25	20	Male	Alive---	White	
+Jennifer Lopez----------	Musician	USA-----	50	20	Female	Alive---	Latino	
+Bruno Mars--------------	Musician	USA-----	34	20	Male	Alive---	Black	
+Eminem------------------	Musician	USA-----	47	20	Male	Alive---	White	
+Adele-------------------	Musician	England-	31	20	Female	Alive---	White	
+Pele--------------------	Athlete-	Brazil--	79	20	Male	Alive---	Latino	
+Jesse Owens-------------	Athlete-	USA-----	66	20	Male	Disease-	Black	
+Derek Jeter-------------	Athlete-	USA-----	45	20	Male	Alive---	White	
+Muhammed Ali------------	Athlete-	USA-----	74	20	Male	Disease-	Black	
+Roger Bannister---------	Athlete-	England-	88	20	Male	Disease-	White	
+Carl Lewis--------------	Athlete-	USA-----	58	20	Male	Alive---	White	
+Bobby Moore-------------	Athlete-	England-	51	20	Male	Disease-	White	
+Sir Donald Bradman------	Athlete-	Australia	92	20	Male	Disease-	White	
+George Best-------------	Athlete-	England-	59	20	Male	Disease-	White	
+David Beckham-----------	Athlete-	England-	44	20	Male	Alive---	White	
+Diego Maradona----------	Athlete-	Argentina	59	20	Male	Alive---	Latino	
+Tegla Laroupe-----------	Athlete-	MidAfrica	46	20	Male	Alive---	Black	
+Michael Jordan----------	Athlete-	USA-----	56	20	Male	Alive---	Black	
+Sachin Tendulkar--------	Athlete-	India---	46	20	Male	Alive---	Asian	
+Billie Jean King--------	Athlete-	USA-----	76	20	Female	Alive---	White	
+Ayrton Senna------------	Athlete-	Brazil--	34	20	Male	Accident	Latino	
+Lewis Hamilton----------	Athlete-	England-	34	20	Male	Alive---	Black	
+Magic Johnson-----------	Athlete-	USA-----	60	20	Male	Alive---	Black	
+Imran Khan--------------	Athlete-	Pakistan	67	20	Male	Alive---	Asian	
+Usain Bolt--------------	Athlete-	USA-----	33	20	Male	Alive---	Latino	
+Lance Armstrong---------	Athlete-	USA-----	48	20	Male	Alive---	White	
+Lionel Messi------------	Athlete-	Argentina	32	20	Male	Alive---	Latino	
+Cristiano Ronaldo-------	Athlete-	Portugal	34	20	Male	Alive---	White	
+Serena Williams---------	Athlete-	USA-----	38	20	Female	Alive---	White	
+Bill Gates--------------	Businessman	USA-----	64	20	Male	Alive---	White	
+Richard Branson---------	Businessman	England-	69	20	Male	Alive---	White	
+Warren Buffett----------	Businessman	USA-----	89	20	Male	Alive---	White	
+Jack Ma-----------------	Businessman	China---	55	20	Male	Alive---	Asian	
+Jeff Bezos--------------	Businessman	USA-----	55	20	Male	Alive---	White	
+Steve Jobs--------------	Businessman	USA-----	56	20	Male	Disease-	White	
+Mark Zuckerberg---------	Businessman	USA-----	35	20	Male	Alive---	Jewish	
+Elon Musk---------------	Businessman	USA-----	48	20	Male	Alive---	White	
+Audrey Hepburn----------	Actor---	England-	63	20	Female	Disease-	White	
+Sir Alec Guinness-------	Actor---	England-	86	20	Male	Disease-	White	
+Peter Sellers-----------	Actor---	England-	54	20	Male	Disease-	White	
+Richard Attenborough----	Actor---	England-	90	20	Male	Disease-	White	
+Michael Caine-----------	Actor---	England-	86	20	Male	Alive---	White	
+Marilyn Monroe----------	Actor---	USA-----	36	20	Female	Suicide-	White	
+Katharine Hepburn-------	Actor---	USA-----	96	20	Female	Disease-	White	
+Julie Andrews-----------	Actor---	England-	84	20	Female	Alive---	White	
+Walt Disney-------------	Actor---	USA-----	65	20	Male	Disease-	White	
+Michael Moore-----------	Actor---	USA-----	65	20	Male	Alive---	White	
+George Clooney----------	Actor---	USA-----	58	20	Male	Alive---	White	
+Oprah Winfrey-----------	Actor---	USA-----	65	20	Female	Alive---	Black	
+Emma Watson-------------	Actor---	England-	29	20	Female	Alive---	White	
+Angelina Jolie----------	Actor---	USA-----	44	20	Female	Alive---	White	
+Scarlett Johansson------	Actor---	USA-----	35	20	Female	Alive---	White	
+Tom Hanks---------------	Actor---	USA-----	63	20	Male	Alive---	White	
+Daniel Day-Lewis--------	Actor---	England-	62	20	Male	Alive---	White	
+Leonardo DiCaprio-------	Actor---	USA-----	45	20	Male	Alive---	White	
+Bruce Lee---------------	Actor---	China---	32	20	Male	Disease-	Asian	
+Morgan Freeman----------	Actor---	USA-----	82	20	Male	Alive---	Black	
+Jonny Depp--------------	Actor---	USA-----	56	20	Male	Alive---	White	
+Meryl Streep------------	Actor---	USA-----	70	20	Female	Alive---	Black	
+Will Smith--------------	Actor---	USA-----	51	20	Male	Alive---	White	
+Harrison Ford-----------	Actor---	USA-----	77	20	Male	Alive---	White	
+Tom Cruise--------------	Actor---	USA-----	57	20	Male	Alive---	White	
+Samuel L Jackson--------	Actor---	USA-----	70	20	Male	Alive---	Black	
+Robin Williams----------	Actor---	USA-----	63	20	Male	Suicide-	White	
+Brad Pitt---------------	Actor---	USA-----	55	20	Male	Alive---	White	
+Robert Downey Jr--------	Actor---	USA-----	54	20	Male	Alive---	White	
+Arnold Schwarzenegger---	Actor---	Austria-	72	20	Male	Alive---	White	
+Jennifer Lawrence-------	Actor---	USA-----	29	20	Female	Alive---	White	
+Bradley Cooper----------	Actor---	USA-----	44	20	Male	Alive---	White	
+Matt Damon--------------	Actor---	USA-----	49	20	Male	Alive---	White	
+Ryan Gosling------------	Actor---	Canada--	39	20	Male	Alive---	White	
+Steven Liu--------------	Scientist	USA-----	18	21	Male	Alive---	Asian	
+Katherine Morris--------	Athlete-	USA-----	18	21	Female	Alive---	White	
+Gavin Kline-------------	Athlete-	USA-----	18	21	Male	Alive---	White	
+Elizabeth Young---------	Athlete-	USA-----	19	21	Female	Alive---	White	
